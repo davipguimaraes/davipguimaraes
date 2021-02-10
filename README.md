@@ -32,6 +32,11 @@
         mysql, php, nginx e um monte de outras coisinhas do front-end
       </td>
     </tr>
+    <tr>
+      <td>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=davipguimaraes&show_icons=true&theme=flag-india" alt="davipguimaraes" />
+      </td>
+    </tr>
   </tbody>
 </table>
 </p>
