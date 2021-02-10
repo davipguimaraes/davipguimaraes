@@ -1,14 +1,18 @@
-<h2 align="center">Hello World! </h2>
-<h3 align="center">I'm Davi Porto Guimarães</h3>
 
+<table align="center">
+  <tbody>    
+     <tr>
+      <td>
+        <h2 align="center">Hello World! </h2>
+<h3 align="center">I'm Davi Porto Guimarães</h3>
 <p align="center">👨‍💻  <strong>Front-end Developer</strong> </p>
 
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davipguimaraes.dev@gmail.com)](mailto:davipguimaraes.dev@gmail.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-porto-guimar%C3%A3es-49004810b/)](https://www.linkedin.com/in/davi-porto-guimar%C3%A3es-49004810b/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davipguimaraes.dev@gmail.com)](mailto:davipguimaraes.dev@gmail.com)
-<table align="center">
-  <tbody>
+      </td>
+    </tr>
      <tr>
       <td>
         <p align="center">💬 Ask me about Javascript</p>
