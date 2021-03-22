@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <td colspan="3">
-        <p align="center">📫 How to reach me <strong>davipguimaraes.dev@gmail.com</stron</p>
+        <p align="center">📫 How to reach me <strong>davipguimaraes.dev@gmail.com</stron> </p>
       </td>
     </tr>
     <tr>
