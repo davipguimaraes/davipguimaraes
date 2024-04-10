@@ -20,4 +20,4 @@
 
 **WakaTime**
 
-[![Davi's WakaTime stats](https://github-readme-stats-hazel-kappa.vercel.app/api/wakatime?username=davi&v=01&layout=compact)](https://github.com/davipguimaraes/github-readme-stats)
+[![Davi's WakaTime stats](https://github-readme-stats-hazel-kappa.vercel.app/api/wakatime?username=davi&theme=dark&layout=compact)](https://github.com/davipguimaraes/github-readme-stats)
